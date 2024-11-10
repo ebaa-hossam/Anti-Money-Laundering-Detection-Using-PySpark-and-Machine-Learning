@@ -1,0 +1,2 @@
+# Anti-Money-Laundering-Detection-Using-PySpark-and-Machine-Learning
+This project focuses on detecting money laundering activities using machine learning techniques and PySpark for big data processing. The dataset includes financial transactions. The goal is to identify suspicious activities (money laundering) with high accuracy and efficiency, addressing class imbalance and leveraging scalable solutions.
